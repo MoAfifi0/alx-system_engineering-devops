@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..} | tr " " "\n" | egrep -v
+echo {a..z}{a..} | tr " " "\n" | egrep -v "oo"
